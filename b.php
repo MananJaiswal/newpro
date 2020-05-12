@@ -1,5 +1,5 @@
 <?php
 
-print "heloo";
+print 'heloo';
 
 ?>
