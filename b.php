@@ -1,1 +1,5 @@
-heloo
+<?
+
+print "heloo";
+
+?>
