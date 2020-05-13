@@ -1,3 +1,3 @@
 <?php
-prinnnt 'helooooo';
+print 'helooooo';
 ?>
